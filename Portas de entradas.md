@@ -50,5 +50,3 @@ use App\Http\Controllers\UserController;
 Isso garante que o Laravel saiba onde encontrar essas classes. Mais adiante, explicaremos como configurar corretamente o **namespace** das classes dentro da aplicação.  
 
 ---
-
-Agora o texto está mais organizado, claro e com os erros corrigidos. Se precisar de mais ajustes ou quiser mais detalhes, é só avisar! 😊
